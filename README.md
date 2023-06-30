@@ -1,3 +1,5 @@
+![GIF de boas vindas](./header.gif)
+
 ## Olá 👋
 
 ### 🤔 Quem sou eu? 🤔
