@@ -13,3 +13,7 @@ Me chamo Alexandre, sou estudante de Sistemas de Informação na UFSC e Análise
 
 ## ⭐ Tecnologias que já tive contato ⭐
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" alt="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" alt="Bootstrap" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" alt="Angular" />
+
+
+## Status
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandreConte&theme=dracula" alt="Stats" />
